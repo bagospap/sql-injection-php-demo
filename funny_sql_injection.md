@@ -4,7 +4,7 @@ While the legendary Bobby Tables XKCD comic is the most famous SQL injection sto
 
 Below is a photo of a car with a spoofed "license plate" containing an SQL injection attempt:
 
-![SQL Injection Car Plate Example]([image1](https://i.imgur.com/DHJMh2P.jpeg))
+![SQL Injection Car Plate Example](https://i.imgur.com/DHJMh2P.jpeg)
 
 The "plate" reads:
 ```
