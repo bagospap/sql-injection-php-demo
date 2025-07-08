@@ -38,4 +38,4 @@ Modern vehicle registration and parking systems must always sanitize and paramet
 
 ---
 
-*Photo credit: Unknown original source. This image is often shared in security communities as a humorous but insightful demonstration of SQL injection awareness.*
+*Photo credit: https://imgur.com/gallery/glyDZ/comment/125763659. This image is often shared in security communities as a humorous but insightful demonstration of SQL injection awareness.*
