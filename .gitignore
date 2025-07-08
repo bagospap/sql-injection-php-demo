@@ -1,0 +1,38 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+/.vscode/
+/.idea/
+/*.sublime-workspace
+/*.sublime-project
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Composer dependencies (if you use composer)
+/vendor/
+
+# Environment files (never commit secrets!)
+.env
+
+# Cache, uploads, and session data
+/cache/
+/uploads/
+/sessions/
+
+# Database files (if you use SQLite or similar)
+*.sqlite
+*.db
+
+# Node modules (if you use JS tooling)
+/node_modules/
+
+# PHPStorm
+*.iml
+
+# Backup files
+*~
+*.bak
